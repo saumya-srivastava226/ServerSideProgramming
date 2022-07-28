@@ -1,2 +1,14 @@
 # ServerSideProgramming
 Here I am daily going to upload the things I learn daily.( Servlets, JSPs, Spring)
+Day1: Test
+I learnt what servlet is. Three diffrent ways of making servlets and deployed them over Tomcat v10 server.
+
+Day2: MyForm
+I learnt how to send parameters to servlet with the help of form(index.html) .
+
+Day3: 
+Learnt about RequestDispatcher(#include() and #forward()) and added these functionalities to MyForm project.
+Learnt what is deployment desciptor.(web.xml)
+
+Day4:Parameter and attributes in servlets
+
