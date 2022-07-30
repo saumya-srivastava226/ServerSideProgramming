@@ -17,7 +17,7 @@ Day 5: AttributesAndParameters
 Made two servlets.Passed parameters of Servlet1( using html forms) and created Attributes in Servlet1 and passed the request to Servlet2 with the help of RequestDispatcher
 Servlet1 had summation of two numbers and Servlet2 had product of two numbers. Displayed both Sum and Product in servlet2 with the help of attribute set in Servlet1.
 
-
+What is Session Tracking and why it is neccessary. Learnt this with the help of a program "WhySessionTracking"..
 
 
 
