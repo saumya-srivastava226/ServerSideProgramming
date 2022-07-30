@@ -11,4 +11,14 @@ Learnt about RequestDispatcher(#include() and #forward()) and added these functi
 Learnt what is deployment desciptor.(web.xml)
 
 Day4:Parameter and attributes in servlets
+Learnt the definitions of both of them 
 
+Day 5: AttributesAndParameters
+Made two servlets.Passed parameters of Servlet1( using html forms) and created Attributes in Servlet1 and passed the request to Servlet2 with the help of RequestDispatcher
+Servlet1 had summation of two numbers and Servlet2 had product of two numbers. Displayed both Sum and Product in servlet2 with the help of attribute set in Servlet1.
+
+
+
+
+
+ 
