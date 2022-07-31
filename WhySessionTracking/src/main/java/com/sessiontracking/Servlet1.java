@@ -1,5 +1,6 @@
 package com.sessiontracking;
 import java.io.PrintWriter;
+import jakarta.servlet.http.Cookie;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -34,6 +35,14 @@ public class Servlet1 extends HttpServlet {
 		
 		String name=request.getParameter("name");
 		out.println("<h1> Hello "+name +" Welcome to my website....</h1>");
+		
+		// We will create a cookie so that next time if name is fetched server remembers it
+		
+		
+		Cookie c=new Cookie("user_name",name);// Our cookie is ready and now we need to give it to response
+		response.addCookie(c);
+		
+		
 		out.println("<h2> <a href='servlet2'> Go to Servlet2 </a></h2>");
 		
 		
