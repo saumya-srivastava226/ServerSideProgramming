@@ -19,6 +19,13 @@ Servlet1 had summation of two numbers and Servlet2 had product of two numbers. D
 
 What is Session Tracking and why it is neccessary. Learnt this with the help of a program "WhySessionTracking"..
 
-
+Day 6: Ways of state management- There are four ways by which you can manage the session. 
+                                a. Cookies
+                                b. Hiddden Form Field
+                                c. URL Rewriting
+                                d. HttpSesssion
+        LearntWhatCookies are and how to implement them with the help of program ( Why Session Tracking )(Files were updated and changes were made.
+        
+ 
 
  
