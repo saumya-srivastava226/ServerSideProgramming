@@ -24,8 +24,12 @@ Day 6: Ways of state management- There are four ways by which you can manage the
                                 b. Hiddden Form Field
                                 c. URL Rewriting
                                 d. HttpSesssion
-        LearntWhatCookies are and how to implement them with the help of program ( Why Session Tracking )(Files were updated and changes were made.
-        
+        LearntWhatCookies are and how to implement them with the help of program ( Why Session Tracking )(Files were updated and changes were made.Da     
  
-
+Day 7: Learnt how to make RegistrationModule( file name: RegistrationModuleProgram)
+       Made a form using html, materialise css and directed that form to our servlet and the data was stored into database with the help of JDC;
+       Basically leart how to put data into database using servlets.
+       
+       Learnt what URL Rewriting is . And how state is manageed with the help of URL Rewriting.
+       file name:URLRewriting
  
