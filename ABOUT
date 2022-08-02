@@ -39,5 +39,6 @@ Day 7: Learnt how to make RegistrationModule( file name: RegistrationModuleProgr
         Introduction to JSP( Java Server Pages) - What are they? Why they are better than servlets. And how to write basic JSP tags.
         JSP tags are used to write dynamic java inside static html page with the help of tags.
         Looking forward to using them in programs.
+        first.jsp is the first program on jsp. In this I learnt about JSP declaration tag, sciptlet tag and expression tag.
         
         
