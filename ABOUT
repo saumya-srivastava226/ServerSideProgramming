@@ -45,4 +45,7 @@ Day 9: Learnt about directive tags- page directive, include directive, taglib di
        Learning how to handle run-time exceptions in JSP. (second.jsp)
        Learnt how to make error pages and how to link them to jsp pages.
         File uploaded:ErrorHandlingAddModule  
+       
+  Day 10: Learnt aboout cutsom tags and how can we make our own custom tags and use them in jsp pages.
+          The uploaded file is: 
      
