@@ -47,5 +47,9 @@ Day 9: Learnt about directive tags- page directive, include directive, taglib di
         File uploaded:ErrorHandlingAddModule  
        
   Day 10: Learnt aboout cutsom tags and how can we make our own custom tags and use them in jsp pages.
-          The uploaded file is: MyTagHandler.jsp, mytag.tld
+          The uploaded file is: MyTagHandler.jsp, mytag.tld And rest of the things in ErrorHandlingAddModule.
+          It was running successfully.
+          
+  Day 11: Learnt about implicit objects in JSP . What are they and how they are used.
+          Covered only theorictical portion.
      
