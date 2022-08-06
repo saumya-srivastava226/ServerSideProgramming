@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN" "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+<taglib>
+
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<short-name>testing</short-name>
+	<uri>http://www.tomcat-demo.com/testing</uri>
+	<description>This is a demonstration tag library</description>
+
+	<tag>
+		<name>greet</name>
+		<tag-class>tag.Welcome</tag-class>
+	</tag>
+
+	<tag>
+		<name>demo</name>
+		<tag-class>tag.Demo</tag-class>
+	</tag>
+  
+
+</taglib>
+
+
+// If you want to make your own tag, you will simple make a java class and make it extends Tag interface or TagSupport class. After that youw ill have to do the mapping of the 
+tag you have created in tag library descriptor(.tld file) and then to use this tag you will have to create a taglib directive in your jsp page.
+// The extra files have been added in ErrorHandlingAddModule and demonstrated the tag demo.
