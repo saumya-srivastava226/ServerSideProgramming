@@ -53,4 +53,6 @@ Day 9: Learnt about directive tags- page directive, include directive, taglib di
   Day 11: Learnt about implicit objects in JSP . What are they and how they are used.
           Covered only theorictical portion.
           Learnt how to redirect pages from one jsp page to another internal as well as external source.
+          
+  Day 12: Learnt what are filters in servlets. What are the uses of filters. Life Cycle methods of Filter.Covered only theory.
      
