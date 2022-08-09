@@ -57,4 +57,6 @@ Day 9: Learnt about directive tags- page directive, include directive, taglib di
   Day 12: Learnt what are filters in servlets. What are the uses of filters. Life Cycle methods of Filter.Covered only theory.
   
   Day 13: Learnt how to configure filters to servlets. The uploaded file- FilterExample
+  
+  Day 14: Introduction to JSTL( JSP Standard Tag Library), What kind of tags are there in jstl. Got to know about core tags, functions tag, xml tags, formatting tags.
      
