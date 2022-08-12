@@ -46,19 +46,28 @@ Day 9: Learnt about directive tags- page directive, include directive, taglib di
        Learnt how to make error pages and how to link them to jsp pages.
         File uploaded:ErrorHandlingAddModule  
        
-  Day 10: Learnt aboout cutsom tags and how can we make our own custom tags and use them in jsp pages.
+Day 10: Learnt aboout cutsom tags and how can we make our own custom tags and use them in jsp pages.
           The uploaded file is: MyTagHandler.jsp, mytag.tld And rest of the things in ErrorHandlingAddModule.
           It was running successfully.
-          
-  Day 11: Learnt about implicit objects in JSP . What are they and how they are used.
+         
+Day 11: Learnt about implicit objects in JSP . What are they and how they are used.
           Covered only theorictical portion.
           Learnt how to redirect pages from one jsp page to another internal as well as external source.
           
-  Day 12: Learnt what are filters in servlets. What are the uses of filters. Life Cycle methods of Filter.Covered only theory.
+Day 12: Learnt what are filters in servlets. What are the uses of filters. Life Cycle methods of Filter.Covered only theory.
+ 
+ 
+Day 13: Learnt how to configure filters to servlets. The uploaded file- FilterExample
   
-  Day 13: Learnt how to configure filters to servlets. The uploaded file- FilterExample
-  
-  Day 14: Introduction to JSTL( JSP Standard Tag Library), What kind of tags are there in jstl. Got to know about core tags, functions tag, xml tags, formatting tags.
+Day 14: Introduction to JSTL( JSP Standard Tag Library), What kind of tags are there in jstl. Got to know about core tags, functions tag, xml tags, formatting tags.
      
-  Day 15:I have covered all the topics in Advanced Java and now we are moving to project.
+Day 15:I have covered all the topics in Advanced Java and now we are moving to project.
           Here after I will be updating all the things that I did and learnt in making project.
+          
+Day 16: Did the project set up.In Java folder designed four packages- dao, helper,servlets,entities.
+          In static contents- made three folders- css,js, images.
+          Made a connectionprovider class and established the connection. 
+          
+Day 17: We are going to make three pages- home page, login page, register page.
+        Navber is going to be there in all pages hence we will copy the whole navbar code from materializecss.com and put it inside a jsp file so that we can use
+        it using the page directive.
