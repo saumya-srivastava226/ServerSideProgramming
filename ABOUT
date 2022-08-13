@@ -71,3 +71,5 @@ Day 16: Did the project set up.In Java folder designed four packages- dao, helpe
 Day 17: We are going to make three pages- home page, login page, register page.
         Navber is going to be there in all pages hence we will copy the whole navbar code from materializecss.com and put it inside a jsp file so that we can use
         it using the page directive.
+        
+Day 18: We designed three pages home,login and register.The files uploaded are with the same name.
