@@ -75,4 +75,7 @@ Day 17: We are going to make three pages- home page, login page, register page.
 Day 18: We designed three pages home,login and register.The files uploaded are with the same name.
         We have started working on the registration module as well . We created a database techblog. Inside it we created a table called user( id,name,email,password,
          gender,date).
-         Right after this we made a class User.java inside the entities package
+         Right after this we made a class User.java inside the entities package.
+         
+         
+Day 19: We made a user class, a userdao class, and a servlet named RegisterServlet.Did the mapping of the servlet in web.xml manually.
