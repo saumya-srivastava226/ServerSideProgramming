@@ -79,3 +79,6 @@ Day 18: We designed three pages home,login and register.The files uploaded are w
          
          
 Day 19: We made a user class, a userdao class, and a servlet named RegisterServlet.Did the mapping of the servlet in web.xml manually.
+
+Day 20: We are going to make an error page , and method to fetch details in UserDao.java and complete the whole login module.
+        So far we have created the error_page.jsp, getUserByEmailAndPassword() method in UserDao and made a LoginServlet.java in servlets package.
