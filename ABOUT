@@ -82,3 +82,5 @@ Day 19: We made a user class, a userdao class, and a servlet named RegisterServl
 
 Day 20: We are going to make an error page , and method to fetch details in UserDao.java and complete the whole login module.
         So far we have created the error_page.jsp, getUserByEmailAndPassword() method in UserDao and made a LoginServlet.java in servlets package.
+        We designed the logout module as well and the profile page.
+        We need to add more functionalities to that page.
